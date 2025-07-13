@@ -13,6 +13,7 @@ Pro:
 
 Cons: 
 - Not super professional but that might be ok
+- Page changes are not immediately displayed due to caching by docsify. 
 
 
 ### Option 2: I do it for you
