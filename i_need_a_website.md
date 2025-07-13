@@ -28,3 +28,5 @@ Contact me. :)
 [[test.md]]
 [[/test.md]]
 [[/test]]
+
+[[home]]
