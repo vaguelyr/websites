@@ -15,6 +15,8 @@ Cons:
 - Not super professional but that might be ok
 - Page changes are not immediately displayed due to caching by docsify. 
 
+[Get started](option1_docsify.md)
+
 
 ### Option 2: I do it for you
 I can do it for you. $5 per month and you pay for the domain name. porkbun is good for buying a domain name. I could be persuaded to buy a domain name and use it to host multiple sites. 
