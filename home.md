@@ -14,3 +14,10 @@ We get an actual linux server and can modify everything.
 
 ## Let's run a business!
 Contact me. :)
+
+
+## Test
+[[test]]
+[[test.md]]
+[[/test.md]]
+[[/test]]
