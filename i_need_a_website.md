@@ -9,9 +9,10 @@ You're not running a business, you're sharing text (images are supported too:))
 
 Pro: 
 - Extremely easy to start and use
+- Free
 
 Cons: 
-- docsify seems to cache your page and then it's hard to get new versions to display?
+- Not super professional but that might be ok
 
 
 ### Option 2: I do it for you
