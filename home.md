@@ -4,7 +4,7 @@ It's also a proof of concept site.
 
 ## I just need a website!
 ### Option 1: free and lowest effort
-Just put your markdown files in gitlab and use linktree and docsify-this.net to display them. 
+Just put your markdown files in github and use linktree and docsify-this.net to display them. 
 You're not running a business, you're sharing text (images are supported too:))
 
 
