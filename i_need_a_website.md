@@ -7,6 +7,12 @@ It's also a proof of concept site.
 Just put your markdown files in github and use linktree and docsify-this.net to display them. 
 You're not running a business, you're sharing text (images are supported too:))
 
+Pro: 
+- Extremely easy to start and use
+
+Cons: 
+- docsify seems to cache your page and then it's hard to get new versions to display?
+
 
 ### Option 2: I do it for you
 I can do it for you. $5 per month and you pay for the domain name. porkbun is good for buying a domain name. I could be persuaded to buy a domain name and use it to host multiple sites. 
